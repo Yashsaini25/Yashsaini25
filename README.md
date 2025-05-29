@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning **Advanced React, FastAPI, and AI agents**
 - 👯 I’m looking to collaborate on **open-source AI or web projects**
 - 👨‍💻 All of my projects are available at [https://github.com/Yashsaini25](https://github.com/Yashsaini25)
-- 💬 Ask me about **C++, Python, Frontend Development, and Chess Bots**
-- 📫 How to reach me: **yashsaini19102004@gmail.com**
+- 💬 Ask me about **C++, Python, Backend Development, and DSA**
+- 📫 How to reach me: **yash.saini.work@gmail.com**
 - ⚡ Fun fact: **I’m building a 2D metaverse of my college**
 
 ---
@@ -50,10 +50,10 @@
 ### 🌐 Let's Connect:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yashsaini25/" target="blank">
+  <a href="[https://www.linkedin.com/in/yashsaini25/](https://www.linkedin.com/in/yash-saini-bb7ab4339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="mailto:yashsaini19102004@gmail.com" target="blank">
+  <a href="mailto:yash.saini.work@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
   </a>
 </p>
